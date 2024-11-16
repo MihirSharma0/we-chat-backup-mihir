@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651494040606",
+    "project_id": "my-awesone-d318b",
+    "storage_bucket": "my-awesone-d318b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651494040606:android:0603b30cf18f5378e4ba0f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651494040606-lrajqmr56ft4ohflm122ecmpg5kvajj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp",
+            "certificate_hash": "9abdac2f1f9b1f8381f6819574b61454c4c619d7"
+          }
+        },
+        {
+          "client_id": "651494040606-hnghjsnqulnt0t5958i6r93ov361rtu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhS_ikl7pxHnADu3Jsnkz-7AhfecVp9Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651494040606-hnghjsnqulnt0t5958i6r93ov361rtu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
