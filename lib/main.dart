@@ -4,7 +4,7 @@ import 'package:myapp/auth/splash_screen.dart';
 
 late Size mq;
 
-void main() async {
+void main() async { 
   WidgetsFlutterBinding
       .ensureInitialized(); // Ensure Flutter binding is initialized
   await Firebase.initializeApp(); // Initialize Firebase before running the app

@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'dart:developer';
 
 import 'package:flutter/cupertino.dart';
@@ -79,7 +80,7 @@ class _HomeScreenState extends State<HomeScreen> {
               final data = snapshot.data?.docs;
               // ignore: unused_local_variable
               for (var i in data!) {
-                log('Data: ${i.data()}');
+                log('Data: ${json.encode(i.data())}');
                 list.add(i.data()['name']);
               }
             }
